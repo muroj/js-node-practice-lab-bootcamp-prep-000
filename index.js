@@ -1,5 +1,4 @@
 // write your code below!
-
 var name = "Fred"
 var height = "74"
 
